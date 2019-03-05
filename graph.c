@@ -5,7 +5,7 @@
 #include <stdbool.h>
 #include <assert.h>	
 #include <time.h>
-
+//hello everyone
 typedef struct graph{
 
 
